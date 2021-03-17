@@ -1,0 +1,29 @@
+{
+    "hero": {
+        "greeting" : "Welcome",
+        "introduction": "My name is Naman Goyal, I am a Web Developer, Excited to work on new projects",
+        "img_profile": "https://lh3.googleusercontent.com/Av5KXYVSNBSVv2UgU1FSUaOyhNwNN6ScPQQoZb0Vcbp8Ndcy367fmpDYyQBozXztHeSX8N_RG1oo4WOo8W_x6ZGbTiZNort962j0Gg",
+        "img_background": "https://lh3.googleusercontent.com/Qgexrasy7eXohWgFm3129sTfhZLeNAiDRI75zHC0nnWu3c7BFXlLi_wFCi-W1KW1d5HGi5YEeVKd6brQlmDIaWJX2rMf6F_GHitTQpg"
+    },
+    "projects":{
+        "header":"My Projects",
+        "subheader" : "Take a look at some of my recent projects"
+    },
+    "contact":{
+        "header": "Let's Collaborate",
+        "subheader": "If you're interested in working with me, fill out the form below and I'll get back to you"
+    },
+    "image_profile" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0AMqwDkXlAMzpVWEEQyMu1SuvytCi0njtw&usqp=CAU",
+    "languages": [
+        {"name": "JavaScript","years":1},
+        {"name": "Python","years":1.5},
+        {"name": "C++","years":2},
+        {"name": "C","years":3}
+    ]
+}
+
+
+
+
+
+
